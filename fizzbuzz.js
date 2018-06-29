@@ -1,11 +1,5 @@
 console.log('hello');
 
-
-
-
-
-
-
 function fizzbuzz(arr) {
   var inputArr =[];
   inputArr.push(arr);
@@ -21,4 +15,3 @@ function fizzbuzz(arr) {
 }
 
 fizzbuzz(1);
-
